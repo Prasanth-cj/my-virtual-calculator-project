@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+*.zip
+*.tar.gz
+Oracle_JDK*/
+result/
